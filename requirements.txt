@@ -1,0 +1,2 @@
+# Requires: hypothetical-postponement
+# (Not available on PyPI)
